@@ -15,6 +15,5 @@ module.exports = function override(config, env) {
         }),
         new webpack.IgnorePlugin({ resourceRegExp: /^react-native-fs$/ })
     );
-
     return config;
 }
