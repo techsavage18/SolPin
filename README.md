@@ -1,6 +1,7 @@
 # What is SolPin?
 
-SolPin is a decentralized Image sharing platform built on Solana Blockchain using Spling Protocol. Solpin was built as a part of Solana Hackathon 2023 in January in 25 days!
+SolPin is a decentralized social media gas less platform built on Solana Blockchain.
+Here I'm using Spling Protocol to make everything gas less.
 
 View it live at [https://solpin.vercel.app/](https://solpin.vercel.app/)
 Demo Video: https://clipchamp.com/watch/jwx7pdVgoWI
