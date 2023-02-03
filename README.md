@@ -21,6 +21,14 @@ Demo Video: https://clipchamp.com/watch/jwx7pdVgoWI
 ## **Profile page (View other users, follow them and interact with their posts):**
 ![image](https://user-images.githubusercontent.com/122214438/216711737-6f7e53e9-f079-448e-aca5-1eeab7a2bc0c.png)
 
+## Create Post page:
+![image](https://user-images.githubusercontent.com/122214438/216712105-99d88abf-e0b2-48ea-b305-ae8f420d8419.png)
+![image](https://user-images.githubusercontent.com/122214438/216712184-51db4f0b-cdfd-4c72-b667-4ec79b7c7c7e.png)
+
+## My Profile:
+![image](https://user-images.githubusercontent.com/122214438/216712265-7b45879e-b120-43b8-b441-3b4162782e77.png)
+
+
 
 
 
